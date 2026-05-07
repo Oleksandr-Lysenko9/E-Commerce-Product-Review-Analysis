@@ -33,7 +33,7 @@ The dashboard is intended as the primary touchpoint for reviewing outcomes and e
 
 The product, review, and variant data used in this analysis was sourced via a custom **web scraper** built using Python. The scraper gathers structured data from Shopify-based e-commerce store and stores it in a local SQLite database.
 
-- See the scraping tool: [Web Scraper GitHub Repository]([https://github.com/Entire-Circus/Shopify-scraper])
+- See the scraping tool: [Web Scraper GitHub Repository]([https://github.com/Oleksandr_Lysenko9/Shopify-scraper])
 - Scraped data includes product-level data: category, name, size etc., review data: review header, review text, feedback,  and variant-level data: price, color, full product name, etc.
 
 This project uses that scraped data for in-depth analysis, sentiment extraction, and predictive modeling.
@@ -70,7 +70,6 @@ This project uses that scraped data for in-depth analysis, sentiment extraction,
 6. **Deployment**  
    - The dashboard is containerized using **Docker** and deployed on **Render** for easy access.  
    - Hosted online, offering a lightweight, browser-based interface suitable for business users and stakeholders — no local setup required.  
-   - **Live demo:** [Try the dashboard here](https://e-commerce-analysis-dashboard.onrender.com)
   
 7. **Full Technical Report**  
    - Supplementary document detailing the full analytical workflow, advanced feature engineering, and modeling rationale  
