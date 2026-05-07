@@ -6,7 +6,7 @@ A data analysis project exploring product trends, pricing dynamics, customer sen
 
 ## Author
 
-- **Alexandr Lysenko** – [GitHub](https://github.com/Entire-Circus)
+- **Oleksandr Lysenko** – [GitHub](https://github.com/Oleksandr_Lysenko9)
 
 ---
 
