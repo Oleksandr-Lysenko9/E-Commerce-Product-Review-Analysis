@@ -6,7 +6,7 @@ A data analysis project exploring product trends, pricing dynamics, customer sen
 
 ## Author
 
-- **Oleksandr Lysenko** – [GitHub](https://github.com/Oleksandr_Lysenko9)
+- **Oleksandr Lysenko** – [GitHub](https://github.com/Oleksandr-Lysenko9)
 
 ---
 
@@ -33,7 +33,7 @@ The dashboard is intended as the primary touchpoint for reviewing outcomes and e
 
 The product, review, and variant data used in this analysis was sourced via a custom **web scraper** built using Python. The scraper gathers structured data from Shopify-based e-commerce store and stores it in a local SQLite database.
 
-- See the scraping tool: [Web Scraper GitHub Repository](https://github.com/Oleksandr_Lysenko9/Shopify-scraper)
+- See the scraping tool: [Web Scraper GitHub Repository](https://github.com/Oleksandr-Lysenko9/Shopify-scraper)
 - Scraped data includes product-level data: category, name, size etc., review data: review header, review text, feedback,  and variant-level data: price, color, full product name, etc.
 
 This project uses that scraped data for in-depth analysis, sentiment extraction, and predictive modeling.
